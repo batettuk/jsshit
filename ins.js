@@ -448,3 +448,27 @@
 //   return acc.length < word.length ? word : acc;
 // }, "");
 // console.log(a);
+// let a = [1, 2, 3, 4, 5];
+// console.log(a[2]);
+// const animals = ["Lion", "Tiger", "Elephant", "Giraffe"];
+// animals[1] = "panda";
+// console.log(animals);
+// const books = ["1984", "Brave New World", "Fahrenheit 451"];
+// books.push("NineTwo", "TwoNine");
+// console.log(books);
+// const numbers = [10, 20, 30, 40, 50];
+
+// console.log(numbers.indexOf(30));
+// let fruit1 = ["mango", "apple", "orange"];
+// let fruit2 = ["melon", "watermelon", "pear"];
+// let all = [];
+// let a = fruit1.concat(fruit2);
+// console.log(a);
+// const colors = ["Red", "Green", "Blue", "Yellow", "Purple"];
+// console.log(colors.includes("Blue"));
+// const array1 = ["a", "b", "c"];
+// const array2 = ["a", "b", "c"];
+// console.log(array1.length === array2.length);
+// const words = ["JavaScript", "is", "a", "versatile", "language"];
+// const a = words.join(" ");
+// console.log(a);
